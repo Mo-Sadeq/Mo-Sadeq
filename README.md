@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mo-Sadeq
-- 👀 I’m interested in programming and AI
-- 🌱 I’m currently learning C 
+- 👀 I’m interested in ML and AI
+  
 
 
 <!---
